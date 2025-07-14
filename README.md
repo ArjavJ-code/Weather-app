@@ -1,6 +1,6 @@
 # 🌦️ Weather App
 
-A sleek and beginner-friendly web app that displays real-time weather information for any city using the **OpenWeatherMap API**. Built with **HTML**, **CSS**, and **Vanilla JavaScript**, it's perfect for those learning how to integrate APIs and handle dynamic UI updates.
+A simple and responsive weather application built with **HTML**, **CSS**, and **JavaScript**. It allows users to search for any city and get real-time weather data using the **OpenWeatherMap API**.
 
 ---
 
